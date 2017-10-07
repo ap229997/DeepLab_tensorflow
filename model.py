@@ -2,7 +2,7 @@ import tensorflow as tf
 from six.moves import cPickle
 
 # Loading net skeleton with parameters name and shapes.
-with open("net_skeleton.ckpt", "rb") as f:
+with open("./net_skeleton/net_skeleton.ckpt", "rb") as f:
     net_skeleton = cPickle.load(f)
 
 # The DeepLab-LargeFOV model can be represented as follows:
