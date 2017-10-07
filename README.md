@@ -3,4 +3,4 @@ This is tensorflow implementation of Deeplab v1 [[reference]](https://github.com
 
 **Updates:** Adding the network architecture in the directory **net_skeleton** and the link for pretrained models below.
 
-You can find the pretrained models [here](https://drive.google.com/open?id=0B_rootXHuswsTF90M1NWQmFYelU)
+You can find the pretrained models [here](https://drive.google.com/open?id=0B_rootXHuswsU0hSZ2hneTczN2s)
